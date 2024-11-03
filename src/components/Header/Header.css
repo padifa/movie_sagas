@@ -1,0 +1,10 @@
+#main-header {
+  background-color: rgb(232, 234, 227);
+  color: rgb(26, 125, 212) !important;
+}
+
+.my-container {
+  background-color: rgb(232, 234, 227);
+  color: rgb(26, 125, 212);
+  padding: 2em;
+}
